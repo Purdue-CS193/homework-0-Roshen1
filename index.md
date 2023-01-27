@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-                                                    # Roshan's first CS193 Homework
+                                                   
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -9,12 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# Roshan's first CS193 Homework                              
 I am a student at Purdue
 
-# Header 1
-## Header 2
-### Header 3
+
 # Things I like to do
 - Watch Football(Soccer)
 - Talk to friends
